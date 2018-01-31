@@ -1,0 +1,4 @@
+n1=input("Enter n")
+for i in range(n1):
+    for j in range(i):
+        print j
